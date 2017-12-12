@@ -1,0 +1,2 @@
+
+1. [Yield explained](https://pythontips.com/2013/09/29/the-python-yield-keyword-explained/)
